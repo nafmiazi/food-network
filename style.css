@@ -138,12 +138,12 @@ h2{
 /* Fourth Section Ends */
 
 /* Fifth Section starts */
-#contact-us{
+.contact-us{
     text-align: center;
     margin-bottom: 70px;
 }
 
-#contact-us a{
+.contact-us a{
     margin: 10px;
     text-decoration: none;
     background-image: linear-gradient(to right, #ec008c, #fc6767);
