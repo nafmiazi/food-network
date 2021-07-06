@@ -4,6 +4,11 @@ body{
     padding: 0;
 }
 
+.full-container{
+    width: 1349px;
+}
+
+/* First Section Starts */
 .flex-container{
     display: flex;
     margin-bottom: 70px;
@@ -51,9 +56,9 @@ h2{
     color: white;
     font-weight: 700;
 }
+/* First Section Ends */
 
-
-
+/* Second Section Starts */
 .half-width{
     width: 50%;
 }
@@ -81,7 +86,9 @@ h2{
     margin-left: 40px;
     padding-right: 115px;
 }
+/* Second Section Ends */
 
+/* Third Section Starts */
 .card{
     width: 20%;
     padding: 13px;
@@ -103,7 +110,9 @@ h2{
     margin: 0 315px;
     margin-bottom: 40px;
 }
+/* Third Section Ends */
 
+/* Fourth Section Starts */
 #new-food-items{
     margin: 0 20px;
     border-radius: 10px;
@@ -126,7 +135,9 @@ h2{
     margin: 0 20px;
     box-shadow: 3px 3px 5px black;
 }
+/* Fourth Section Ends */
 
+/* Footer Section Starts */
 .bold{
     font-weight: bolder;
 }
@@ -146,3 +157,4 @@ footer small{
     color: white;
     font-weight: lighter;
 }
+/* Footer Section Ends */
