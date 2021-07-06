@@ -137,6 +137,23 @@ h2{
 }
 /* Fourth Section Ends */
 
+/* Fifth Section starts */
+#contact-us{
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+#contact-us a{
+    margin: 10px;
+    text-decoration: none;
+    background-image: linear-gradient(to right, #ec008c, #fc6767);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 20px;
+    font-weight: 700;
+}
+/* Fifth Section Ends */
+
 /* Footer Section Starts */
 .bold{
     font-weight: bolder;
