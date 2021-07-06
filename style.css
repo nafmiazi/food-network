@@ -1,0 +1,148 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.flex-container{
+    display: flex;
+    margin-bottom: 70px;
+}
+
+.first-half{
+    width: 40%;
+    margin: 70px;
+    padding: 5%;
+}
+
+.first-half p{
+    margin-bottom: 40px;
+}
+
+.second-half{
+    width: 60%;
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+.second-half img{
+    width: 70%;
+}
+
+.first-half h1{
+    font-size: 40px;
+    line-height: 50%;
+}
+
+h2{
+    font-size: 30px;
+}
+
+.orange-color{
+    color: orange;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+}
+
+
+
+.half-width{
+    width: 50%;
+}
+
+.half-width p{
+    margin-bottom: 40px;
+}
+
+.half-width img{
+    width: 60%;
+    padding: 25px;
+    margin-left: 50px;
+    padding-bottom: 0;
+    margin-bottom: -7px;
+}
+
+.aboutMe-section{
+    background-image: url("images/7.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about-me{
+    margin-top: 60px;
+    margin-left: 40px;
+    padding-right: 115px;
+}
+
+.card{
+    width: 20%;
+    padding: 13px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 15px gray;
+    margin: 0 auto;
+}
+
+.card img{
+    width: 100%;
+}
+
+.card p{
+    width: 90%;
+}
+
+.about-food{
+    text-align: center; 
+    margin: 0 315px;
+    margin-bottom: 40px;
+}
+
+#new-food-items{
+    margin: 0 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px gray;
+    display: flex;
+    padding: 2%;
+    padding-right: 0;
+    margin-bottom: 70px;
+    background-color: greenyellow;
+}
+
+.new-items{
+    width: 50%;
+}
+
+.new-item-list img{
+    width: 270px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 0 20px;
+    box-shadow: 3px 3px 5px black;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 50px;
+}
+
+footer h3{
+    color: gray;
+}
+
+footer small{
+    color: white;
+    font-weight: lighter;
+}
